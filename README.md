@@ -2,8 +2,10 @@
 ### Code. Create. Share.
 
 <p align="left">
+  <!-- Vue 徽章 -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
   <!-- React 徽章 -->
-  <img src="https://shields.io" alt="React" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <!-- Node.js 徽章 -->
   <img src="https://shields.io" alt="Node.js" />
   <!-- Docker 徽章 -->
