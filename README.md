@@ -2,9 +2,12 @@
 ### Code. Create. Share.
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- React 徽章 -->
+  <img src="https://shields.io" alt="React" />
+  <!-- Node.js 徽章 -->
+  <img src="https://shields.io" alt="Node.js" />
+  <!-- Docker 徽章 -->
+  <img src="https://shields.io" alt="Docker" />
 </p>
 
 ---
