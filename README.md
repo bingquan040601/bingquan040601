@@ -1,4 +1,4 @@
-# 👨‍💻 Bingquan Huang (黄冰泉)
+# 👨‍💻 Bingquan Huang (黄柄权)
 ### Code. Create. Share.
 
 <p align="left">
