@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <!-- TypeScript 徽章 -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- JEST -->
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
 
 ---
@@ -32,9 +34,9 @@
 
 | 领域 | 技术关键字 |
 | :--- | :--- |
-| **Frontend** | ![React](https://shields.io) ![Vue](https://shields.io) ![TypeScript](https://shields.io) |
-| **Backend** | ![Node.js](https://shields.io) |
-| **Tooling** | ![Webpack](https://shields.io) ![Vite](https://shields.io) ![Docker](https://shields.io) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Tooling** | ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  |
 
 ---
 
