@@ -63,7 +63,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Stats" />
 </p>
 
 ---
