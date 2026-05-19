@@ -44,12 +44,12 @@
 
 ### 📱 小米 (Xiaomi) · 高级前端工程师
 > **2026**
-- **技术架构**：React + TypeScript + Babel + Webpack
-- **核心贡献**：负责核心业务模块重构，通过优化 Webpack 构建链路提升了 30% 的编译速度。
+- **技术架构**：React 17、TypeScript、Ant Design、SWR、React Hook Form、Webpack Module Federation、ECharts、Elastic APM
+- **核心贡献**：参与研发小米大数据分析 SDK，基于 Webpack Module Federation 实现模块化接入，支持宿主应用按需加载 ./sdk、./DatePicker 等子模块；通过该架构实现跨应用主题 Token 注入，确保分析平台与主站视觉风格的统一。
 
 ### 🏦 支付宝 (Ant Group) · 高级前端工程师
 > **2025**
-- **技术架构**：React、TypeScript、Ant Design Mobile，基于蚂蚁内部工程化体系（自研 UI 组件库、CLI 脚手架、统一状态管理方案）开发。
+- **技术架构**：React、TypeScript、Ant Design Mobile，基于蚂蚁内部工程化体系（自研 UI 组件库、CLI 脚手架、统一状态管理方案）开发
 - **核心贡献**：负责团队核心 H5 业务（景区一码通、芝麻信用生态、金融黄金提现）的前端研发工作，针对支付宝及内置 App WebView 等多宿主容器进行深度兼容性适配与体验优化。
 
 ---
