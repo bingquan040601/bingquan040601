@@ -49,8 +49,8 @@
 
 ### 🏦 支付宝 (Ant Group) · 高级前端工程师
 > **2025**
-- **技术架构**：React + TypeScript + Ant Design + esbuild + 支付宝 JSAPI
-- **核心贡献**：深度参与小程序/H5 混合开发，基于 esbuild 实现了极速的热更新体验。
+- **技术架构**：React、TypeScript、Ant Design Mobile，基于蚂蚁内部工程化体系（自研 UI 组件库、CLI 脚手架、统一状态管理方案）开发。
+- **核心贡献**：负责团队核心 H5 业务（景区一码通、芝麻信用生态、金融黄金提现）的前端研发工作，针对支付宝及内置 App WebView 等多宿主容器进行深度兼容性适配与体验优化。
 
 ---
 
