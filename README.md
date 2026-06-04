@@ -1,5 +1,6 @@
 # 👨‍💻 Bingquan Huang (黄柄权)
 ### Hi there 👋 I'm BingQuan frontend developer.
+⚡ Every expert was once a beginner, my bro⚡ ⚡ 冲冲冲！步履不停 ⚡
 
 <p align="left">
   <!-- 核心语言：建议 TS 放在 JS 前面，显得更现代 -->
